@@ -21,7 +21,7 @@ After installing Anaconda you can download the repository directly or clone it t
 
 ```
 > conda install git
-> git clone https://github.com/babakkhavari/Clustering.git
+> git clone https://github.com/OnSSET/Clustering.git
 ```
 Once installed, open anaconda prompt and move to your local "clustering" directory using:
 ```
